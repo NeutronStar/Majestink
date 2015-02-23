@@ -1,0 +1,2 @@
+#!/bin/bash
+g++ test.cpp -o test -lglfw3 -pthread -lGLU -lGL -lGLEW -lrt -lXrandr -lXxf86vm -lXi -lXinerama -lX11 -lXcursor
